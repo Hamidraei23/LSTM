@@ -8,8 +8,7 @@ You can use some deep learning libraries (e.g., PyTorch, Tensorflow) to accelera
 
 **Note**: we will use `Python 3.x` for the project.
 
-## Deadline
-December 19, 2020 9:00AM KST (*No delay is permitted.*)
+
 
 ### Submission checklist
 * Push your code to [github classroom page's CA2 section](https://classroom.github.com/a/urINAJis)
@@ -24,8 +23,6 @@ December 19, 2020 9:00AM KST (*No delay is permitted.*)
 - All of the python files listed above (under "Files you'll edit"). 
   - **Caution:** DO NOT UPLOAD THE DATASET
 
-**Upload to your gradescope page** 
-- `report.pdf` file that answers all the written questions in this assignment (denoted by `"REPORT#:"` in this documentation).
 
 ---
 ## Construct the dataset (10%)
@@ -116,9 +113,3 @@ Add detailed descriptions about software implementation & data preprocessing, in
 `REPORT12`: Strengths and weaknesses of your design, and any problems that your system encountered;
 
 ---
-### Caution
-1. Use your `GIST ID` for your team name in the kaggle submission, otherwise we can't figure out who you are.
-1. Do not over-engineer your method by tuning hyper-parameters heavily.
-
-### Academic dishonesty
-We will be checking your code against other submissions in the class for logical redundancy. If you copy someone else's code and submit it with minor changes, we will know. These cheat detectors are quite hard to fool, so please don't try. We trust you all to submit your own work only; please don't let us down. If you do, we will pursue the strongest consequences available to us.
